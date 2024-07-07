@@ -1,4 +1,4 @@
-# OUABootcamp24
+"# OUABootcamp24
 Oyun ve Uygulama Akademisi 2024 Bootcamp, Unity Takım 1
 ## Takım İsmi
 Karpuz Games
@@ -53,11 +53,11 @@ Her yapıyı ve birimi üç farklı seviyede renove ederek güzelleştireceksini
 - **Puan Sistemi:** Proje için toplam 100 puan öngörülmüş olup, 1.sprint için denk gelen üniversite final haftası ve ulusal bayram sebebiyle puan düşük tutulmuştur.
 - **Daily Scrum:** Kısa görüşmeler ve kararlar Whatsapp üzerinden, toplantılar Discord üzerinden gerçekleştirilmiştir. Ekran görüntülerine ulaşmak için > <a href="https://imgur.com/a/sprint-1-daily-scrums-PM3fkCL" target="_blank">Daily Scrum</a>
 - **Sprint Board Güncellemeler ve Oyun Görselleri:**
-- ![Trello Board1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/1.png)
-- ![Oyun Gorsel1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/2.jpeg)
-- ![Trello Board Update](https://github.com/oguzhanyl/OUABootcamp24/blob/main/3.png)
-- ![Oyun Gorsel1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/4.jpeg)
-- ![Oyun Gorsel1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/5.jpeg)
+- ![Trello Board1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/1.png)
+- ![Oyun Gorsel1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/2.jpeg)
+- ![Trello Board Update](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/3.png)
+- ![Oyun Gorsel1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/4.jpeg)
+- ![Oyun Gorsel1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/5.jpeg)
 - ![UIStart Screen](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/ui1.png)
 - ![UIOptions Screen](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/ui2.png)
 - ![UIEnd Screen](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/ui3.png)
