@@ -1,5 +1,3 @@
-"# OUABootcamp24
-Oyun ve Uygulama Akademisi 2024 Bootcamp, Unity Takım 1
 ## Takım İsmi
 Karpuz Games
 ## Takım Üyeleri
