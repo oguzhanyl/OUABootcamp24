@@ -58,3 +58,6 @@ Her yapıyı ve birimi üç farklı seviyede renove ederek güzelleştireceksini
 - ![Trello Board Update](https://github.com/oguzhanyl/OUABootcamp24/blob/main/3.png)
 - ![Oyun Gorsel1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/4.jpeg)
 - ![Oyun Gorsel1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/5.jpeg)
+- ![UIStart Screen](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/ui1.png)
+- ![UIOptions Screen](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/ui2.png)
+- ![UIEnd Screen](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/ui3.png)
