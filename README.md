@@ -46,6 +46,16 @@ Her yapıyı ve birimi üç farklı seviyede renove ederek güzelleştireceksini
 </p>
 </details>
 
+<details>
+<summary><h2><strong>Sprint 1 Burndown Chart</strong></h2></summary>
+<p>
+  
+![BurnDown](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/burndown.png)
+![Tasks](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/tasks.png)
+
+</p>
+</details>
+
 # SPRINT 1
 - **Sprint 1 için tamamlanması öngörülen puan:** 25
 - **Puan Sistemi:** Proje için toplam 100 puan öngörülmüş olup, 1.sprint için denk gelen üniversite final haftası ve ulusal bayram sebebiyle puan düşük tutulmuştur.
@@ -59,19 +69,19 @@ Her yapıyı ve birimi üç farklı seviyede renove ederek güzelleştireceksini
 - ![UIStart Screen](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/ui1.png)
 - ![UIOptions Screen](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/ui2.png)
 - ![UIEnd Screen](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/ui3.png)
+  
 - **Sprint Review:**
-- Sprint için hedeflenen tüm görevler tamamlanmış olup bir sonraki sprint işleri detaylandırılmıştır.
-- High poly olmasına karar verilen oyunun 3d asset içeriklerinin zenginleşmesi ve adanın masterplanının tasarlanması kararı alınmıştır.
-- Kodlama için basit ve opsiyonel (zor) seçenekler belirlenmiş olup projenin gidişatına göre ekleme yapılmasına karar verilmiştir.
-- 2.sprint için görev ve zaman planlaması yapılmıştır.
+   - Sprint için hedeflenen tüm görevler tamamlanmış olup bir sonraki sprint işleri detaylandırılmıştır.
+   - High poly olmasına karar verilen oyunun 3d asset içeriklerinin zenginleşmesi ve adanın masterplanının tasarlanması kararı alınmıştır.
+   - Kodlama için basit ve opsiyonel (zor) seçenekler belirlenmiş olup projenin gidişatına göre ekleme yapılmasına karar verilmiştir.
+   - 2.sprint için görev ve zaman planlaması yapılmıştır. 
 
-**Sprint Review Katılımcıları:** 
-- Abdullah Enes Dürüşken, Abdülkerim Tetik, Ayça Oğur, Ayçin Soysal, Oğuzhan Yılmaz
+_**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Tetik, Ayça Oğur, Ayçin Soysal, Oğuzhan Yılmaz
 
 - **Sprint Retrospective:**
-- Keyifli ve iş paylaşımının güzel olduğu bir sprint geçirildiğine karar verildi.
-- Ekibin çalışma programı sebebiyle bir araya gelme problemi üzerine konuşulup çözüme kavuşturuldu. Oyunun ana hatlarının belirlenmesi sebebiyle toplu görüşmelerin sıklığı azaltıldı.
-- Bir konuda karar verme üzerine daha hızlı aksiyon alma hedefi belirlendi.
-- Planlı ve net bir zaman dilimi içerisinde çalışmanın motive edici ve ilerleyici olması konusunda hemfikir olundu.
-- Rolumüzde neyi daha iyi yapabilirdik değerlendirmesi > Abdullah, sahne tasarımı küplerle prototip şekilde hazırlanmış olsaydı ilerleme hızlanabilirdi. Abdülkerim, kodlama daha detaylı incelenebilirdi. Ayça, proje yönetimi daha planlı ve hızlı karar vererek ilerlenebilirdi. Ayçin, tasarım üzerine detaylı çalışılabilirdi. Oğuzhan, UI tasarımın iyi gittiği yönünde geri bildirim verildi.
+   - Keyifli ve iş paylaşımının güzel olduğu bir sprint geçirildiğine karar verildi.
+   - Ekibin çalışma programı sebebiyle bir araya gelme problemi üzerine konuşulup çözüme kavuşturuldu. Oyunun ana hatlarının belirlenmesi sebebiyle toplu görüşmelerin sıklığı azaltıldı.
+   - Bir konuda karar verme üzerine daha hızlı aksiyon alma hedefi belirlendi.
+   - Planlı ve net bir zaman dilimi içerisinde çalışmanın motive edici ve ilerleyici olması konusunda hemfikir olundu.
+   - Rolumüzde neyi daha iyi yapabilirdik değerlendirmesi > Abdullah, sahne tasarımı küplerle prototip şekilde hazırlanmış olsaydı ilerleme hızlanabilirdi. Abdülkerim, kodlama daha detaylı incelenebilirdi. Ayça, proje yönetimi daha planlı ve hızlı karar vererek ilerlenebilirdi. Ayçin, tasarım üzerine detaylı çalışılabilirdi. Oğuzhan, UI tasarımın iyi gittiği yönünde geri bildirim verildi. 
 
