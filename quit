@@ -1,0 +1,263 @@
+[33mcommit d4cdd9db5ab172859df501c657c40b90295b3a5f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sat Jul 13 01:37:30 2024 +0300
+
+    Update ProjectSettings.asset
+
+[33mcommit 8fd2e9035a60d2f3edd33d399e242e76766623f2[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sat Jul 13 01:33:41 2024 +0300
+
+    Düzeltme-2
+
+[33mcommit 31e3e92f068ae6252ad2be029a8bbe851794105f[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sat Jul 13 01:23:22 2024 +0300
+
+    Düzeltme
+    
+    Düzeltme
+
+[33mcommit ea3b25c9e1388147f057d001d01c76bdaba90e4c[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sat Jul 13 01:04:42 2024 +0300
+
+    aa
+    
+    a
+
+[33mcommit 07a889aee973af3ea2d7e416308548da85769791[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sat Jul 13 00:59:36 2024 +0300
+
+    aa
+    
+    a
+
+[33mcommit 1a35b9ece4de2418a15a2e5a6ff249e07d1dd5ea[m[33m ([m[1;32mLevelDesign[m[33m)[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Fri Jul 12 23:35:01 2024 +0300
+
+    LevelDesign-Ritüel
+    
+    Sahne tasarımı projeye eklendi
+
+[33mcommit 3c8fdf2f8cafa6ac6c556738a84a1f84cf1ceceb[m
+Merge: 764a85b 549de30
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Thu Jul 11 20:14:21 2024 +0300
+
+    Merge branch 'UI'
+
+[33mcommit 549de30241193f4bd3dc8e71d6c2a37f5274530c[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Thu Jul 11 20:13:12 2024 +0300
+
+    UI-7
+    
+    Buton efekti eklendi
+    İmleç resmi değiştirildi
+    Buton tıklama sesi ve imleç üstüne gelindiğinde ses eklendi
+
+[33mcommit 764a85b5bfc357e27ba703cde21aae8e6fb4274e[m
+Author: Ayça Oğur <149571947+aycaogur@users.noreply.github.com>
+Date:   Mon Jul 8 17:32:19 2024 +0300
+
+    Update README.md
+
+[33mcommit 7d2c62d09a8a4eb5910137222e610eeaeb9cba55[m
+Author: Ayça Oğur <149571947+aycaogur@users.noreply.github.com>
+Date:   Mon Jul 8 17:26:32 2024 +0300
+
+    puan eklendi
+
+[33mcommit 4e5ebf0ec8b6ffd4ccc75a8c8f89ab3fabb28f7c[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sun Jul 7 23:08:20 2024 +0300
+
+    UI-6.3
+    
+    AA
+
+[33mcommit 23a3eaf0dccad6f8e797bbde86191215493673a9[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sun Jul 7 23:05:37 2024 +0300
+
+    UI-6.2
+    
+    Ufak güncelleme
+
+[33mcommit 6ac212be4f95af51834f8f7dbce36f78f00d52ca[m
+Author: Oğuzhan <121518960+oguzhanyl@users.noreply.github.com>
+Date:   Sun Jul 7 22:55:37 2024 +0300
+
+    Update README.md
+    
+    ufak
+
+[33mcommit 1259c85c563dcff892df00c9f9adaedffefe6960[m
+Author: Oğuzhan <121518960+oguzhanyl@users.noreply.github.com>
+Date:   Sun Jul 7 22:52:37 2024 +0300
+
+    Update README.md
+    
+    Sprint Review ve Sprint Retrospective eklendi
+
+[33mcommit ece6cb18301d0123964e5f2d1024e7b15ce9916f[m
+Author: Oğuzhan <121518960+oguzhanyl@users.noreply.github.com>
+Date:   Sun Jul 7 20:47:42 2024 +0300
+
+    Update README.md
+    
+    url güncellemesi
+
+[33mcommit f9d2feb0244f5e0fbc0f012e29efe6d94e6ddf30[m
+Author: Oğuzhan <121518960+oguzhanyl@users.noreply.github.com>
+Date:   Sun Jul 7 20:39:57 2024 +0300
+
+    Update README.md
+    
+    Ekran görüntüsü eklendi
+
+[33mcommit 88d16d12868ba7f25c6726f5be38812ad0cdc52a[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sun Jul 7 20:37:05 2024 +0300
+
+    Sprin1-2
+    
+     Sprint 1 ekran görüntüleri
+
+[33mcommit 67c4c12e416dbf6dcba7832c088bd5bb59dc3706[m
+Merge: b1a3a9b 879a405
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sun Jul 7 20:35:09 2024 +0300
+
+    Merge branch 'UI'
+
+[33mcommit b1a3a9ba324ae4bc132ac9fd83302940ae7d4ff1[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sun Jul 7 20:32:57 2024 +0300
+
+    Sprint1-1
+    
+    1. Sprint ekran görüntüleri klasörlendi
+
+[33mcommit 879a4055e51fbd4319e50a794a0b15b560379d6e[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sun Jul 7 20:27:44 2024 +0300
+
+    UI-6
+    
+    Çanta için tasarıma başlandı
+
+[33mcommit 221b3679f537a8cbe954b11f143b641842da3e33[m
+Author: Oğuzhan <121518960+oguzhanyl@users.noreply.github.com>
+Date:   Sun Jul 7 20:19:54 2024 +0300
+
+    Update README.md
+    
+    Sprint1 ilk commit
+
+[33mcommit f649ae48c889f2aa7c3b32bfce7997913670c4b0[m
+Author: Oğuzhan <121518960+oguzhanyl@users.noreply.github.com>
+Date:   Sun Jul 7 20:16:43 2024 +0300
+
+    Screenshots
+    
+    1. Sprint için ekran görüntüleri
+
+[33mcommit d88f8ced5c1336915b42ba18f76e1d0bd6090fc2[m
+Author: Oğuzhan <121518960+oguzhanyl@users.noreply.github.com>
+Date:   Sun Jul 7 20:15:51 2024 +0300
+
+    Delete Screenshot
+
+[33mcommit 51b0896e3d7100efbdb4d2f9c9f7a70fb5dbc87d[m
+Author: Oğuzhan <121518960+oguzhanyl@users.noreply.github.com>
+Date:   Sun Jul 7 20:15:29 2024 +0300
+
+    Create Screenshot
+    
+    Screenshots
+
+[33mcommit 73aeb1c1eb394af2058acc7f2ca978717c28ba2e[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Sun Jul 7 17:07:26 2024 +0300
+
+    UI-5.2
+    
+    Grafik ayarları için başlangıç
+
+[33mcommit e5c3b6e246c355d0a3c42f4d6aa928d79e3ef008[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Fri Jul 5 18:54:43 2024 +0300
+
+    UI-5
+    
+    Ayarlar menüsü ayarlandı bitiş ekranı üzerinde çalışıldı
+
+[33mcommit 66046c3840820be35472232623b1019fd379e229[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Thu Jul 4 23:56:53 2024 +0300
+
+    UI-4.2
+    
+    Kaydedilmeyenler kaydedildi
+
+[33mcommit b2d5158dd424f512a7aa9778a1c8d065088bd52e[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Thu Jul 4 23:56:15 2024 +0300
+
+    UI-4
+    
+    Bitiş ekranına başlandı
+
+[33mcommit 183ffe6ec127db20a72f600b740e076479ac8458[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Thu Jul 4 23:25:47 2024 +0300
+
+    UI-3
+    
+    Sahne geçişleri eklendi
+
+[33mcommit 428204292cbed3725de141a10587b7456d20e03a[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Thu Jul 4 22:33:05 2024 +0300
+
+    UI-2
+    
+    DESTANSI UI UPDATE
+
+[33mcommit c996effc1aaf1d4fbd82b486d2d8cadda907765a[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Thu Jul 4 01:20:11 2024 +0300
+
+    UI-1
+    
+    First commit
+
+[33mcommit bbd6aa56566f4dcad4c1c740f1053b4b4e3123a1[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Wed Jul 3 23:32:54 2024 +0300
+
+    aa
+
+[33mcommit d76841eca7e80623d4ab155e5e12b1cf9b8fb737[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Wed Jul 3 22:30:52 2024 +0300
+
+    Revert "aa"
+    
+    This reverts commit 6aceecbbc0efec5c80f28dd73c96d4c047bebd15.
+
+[33mcommit 6aceecbbc0efec5c80f28dd73c96d4c047bebd15[m
+Author: Oğuzhan Yılmaz <oguzhan06_61@hotmail.com>
+Date:   Wed Jul 3 21:20:38 2024 +0300
+
+    aa
+
+[33mcommit 1e846f4320b8c5a967a6e5445dcb378bb5f35a6e[m
+Author: Oğuzhan <121518960+oguzhanyl@users.noreply.github.com>
+Date:   Fri Jun 21 21:34:05 2024 +0300
+
+    Initial commit
