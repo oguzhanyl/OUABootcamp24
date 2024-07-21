@@ -47,6 +47,10 @@ Her yapıyı ve birimi üç farklı seviyede renove ederek güzelleştireceksini
 </details>
 
 <details>
+<summary><h2><strong>SPRINT 1</strong></h2></summary>
+<p>
+
+<details>
 <summary><h2><strong>Sprint 1 Burndown Chart</strong></h2></summary>
 <p>
   
@@ -55,8 +59,7 @@ Her yapıyı ve birimi üç farklı seviyede renove ederek güzelleştireceksini
 
 </p>
 </details>
-
-# SPRINT 1
+  
 - **Sprint 1 için tamamlanması öngörülen puan:** 25
 - **Puan Sistemi:** Proje için toplam 100 puan öngörülmüş olup, 1.sprint için denk gelen üniversite final haftası ve ulusal bayram sebebiyle puan düşük tutulmuştur.
 - **Daily Scrum:** Kısa görüşmeler ve kararlar Whatsapp üzerinden, toplantılar Discord üzerinden gerçekleştirilmiştir. Ekran görüntülerine ulaşmak için > <a href="https://imgur.com/a/sprint-1-daily-scrums-PM3fkCL" target="_blank">Daily Scrum</a>
@@ -85,3 +88,19 @@ _**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Te
    - Planlı ve net bir zaman dilimi içerisinde çalışmanın motive edici ve ilerleyici olması konusunda hemfikir olundu.
    - Rolumüzde neyi daha iyi yapabilirdik değerlendirmesi > Abdullah, sahne tasarımı küplerle prototip şekilde hazırlanmış olsaydı ilerleme hızlanabilirdi. Abdülkerim, kodlama daha detaylı incelenebilirdi. Ayça, proje yönetimi daha planlı ve hızlı karar vererek ilerlenebilirdi. Ayçin, tasarım üzerine detaylı çalışılabilirdi. Oğuzhan, UI tasarımın iyi gittiği yönünde geri bildirim verildi. 
 
+</p>
+</details>
+
+<details>
+<summary><h2><strong>SPRINT 2</strong></h2></summary>
+<p>
+
+<details>
+<summary><h2><strong>Sprint 2 Burndown Chart</strong></h2></summary>
+<p>
+  
+![BurnDown]()
+![Tasks]()
+
+</p>
+</details>
