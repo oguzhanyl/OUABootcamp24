@@ -127,3 +127,8 @@ _**Sprint Review Katılımcıları:
 - ![Trello Board3](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_9d1fe272.jpg)
 - ![Trello Board4](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_af48d549.jpg)
 - ![Mission Table](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.55_0a49c578.jpg)
+- ![Game Inside1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/game1.jpg)
+- ![Game Inside2](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/game2.jpg)
+- ![Game Inside3](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/game3.jpg)
+- ![Main UI](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/ui1.png)
+- ![Options UI](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/ui2.png)
