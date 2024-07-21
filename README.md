@@ -116,4 +116,14 @@ _**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Te
 _**Sprint Review Katılımcıları:
 
 - **Sprint Retrospective:**
--    -
+
+- 
+- **Sprint Board Güncellemeler:**
+- ![Asana Board1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_017cee97.jpg)
+- ![Trello Board1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_3bacba60.jpg)
+- ![Asana Board2](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_5368604a.jpg)
+- ![Trello Board2](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_7df7ec98.jpg)
+- ![Burndown Chart](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_9635ef51.jpg)
+- ![Trello Board3](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_9d1fe272.jpg)
+- ![Trello Board4](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_af48d549.jpg)
+- ![Mission Table](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.55_0a49c578.jpg)
