@@ -99,8 +99,8 @@ _**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Te
 <summary><h2><strong>Sprint 2 Burndown Chart</strong></h2></summary>
 <p>
   
-![BurnDown]()
-![Tasks]()
+- ![Burndown Chart](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_9635ef51.jpg)
+- ![Mission Table](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.55_0a49c578.jpg)
 
 </p>
 </details>
@@ -109,26 +109,28 @@ _**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Te
 - **Puan Sistemi:** Projenin ana mekaniğinin 2.Sprint'te tamamlanması kararlaştırılmıştır. Bu sebeple toplam 100 puanlık sprintin büyük payı buraya ayrılmıştır. Görevlerin puanları, tamamlanacak iş saati hesap edilerek belirlenmiştir. 
 - **Daily Scrum:** Kısa görüşmeler ve kararlar Whatsapp üzerinden, toplantılar Discord üzerinden gerçekleştirilmiştir. Ekran görüntülerine ulaşmak için > <a href="https://imgur.com/a/sprint-2-daily-scrums-eLAFPvT">Daily Scrum</a>
 - **Sprint Board Güncellemeler ve Oyun Görselleri:**
---
-
-- **Sprint Review:**
-   - 
-_**Sprint Review Katılımcıları:
-
-- **Sprint Retrospective:**
-
-- 
-- **Sprint Board Güncellemeler:**
-- ![Asana Board1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_017cee97.jpg)
 - ![Trello Board1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_3bacba60.jpg)
 - ![Asana Board2](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_5368604a.jpg)
 - ![Trello Board2](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_7df7ec98.jpg)
-- ![Burndown Chart](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_9635ef51.jpg)
-- ![Trello Board3](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_9d1fe272.jpg)
-- ![Trello Board4](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_af48d549.jpg)
-- ![Mission Table](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.55_0a49c578.jpg)
 - ![Game Inside1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/game1.jpg)
+- ![Main UI](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/ui1.png)
+- ![Trello Board3](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_9d1fe272.jpg)
 - ![Game Inside2](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/game2.jpg)
 - ![Game Inside3](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/game3.jpg)
-- ![Main UI](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/ui1.png)
 - ![Options UI](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/ui2.png)
+- ![Trello Board4](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_af48d549.jpg)
+- ![Asana Board1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint2/WhatsApp%20Image%202024-07-21%20at%2013.19.54_017cee97.jpg)
+
+- **Sprint Review:**
+  - 2.Sprint için öngörülen görevler tamamlanmıştır. Proje, birleştirilme aşamasına geçilmiştir.
+  - Belirlenen tarihte proje hazırlanmış olursa ekstra puan içerikleri incelenecektir.
+  - 3.Sprint için verilen kararlar: Projenin ekip üyeleri arasında dolaşıp eklemelerin tamamlanması ve birleştirilmesi, ekstra içeriklerin eklenmesi, video çıktısının hazırlanması
+  - Oyun giriş sahnesinin hazırlanması için metin ve görsel içeriğin oluşturulmasına karar verilmiştir.
+  - Sprint Review Katılımcıları: Abdullah Enes Dürüşken, Abdülkerim Tetik, Ayça Oğur, Ayçin Soysal, Oğuzhan Yılmaz
+ 
+_**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Tetik, Ayça Oğur, Ayçin Soysal, Oğuzhan Yılmaz
+
+- **Sprint Retrospective:**
+   - Bireysel görevlerin bittiği ve sonraki aşama için bugların çözülmesi gerektiği konuşulmuştur.
+   - Ekibin hızlıca birbirine projeyi aktarması kararlaştırıldı. Dosya büyük olduğu için yaşanan aksaklıkların daha hızlı bir şekilde karar bağlanması yönünde yapıcı eleştri yapıldı.
+   - Level designer ve developerların, materyal seçimi ve 3d objeler için tekrar bir toplantı yapılmasına karar verildi.
