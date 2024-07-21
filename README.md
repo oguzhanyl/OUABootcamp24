@@ -104,3 +104,16 @@ _**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Te
 
 </p>
 </details>
+
+- **Sprint 2 için tamamlanması öngörülen puan:** 60
+- **Puan Sistemi:** Projenin ana mekaniğinin 2.Sprint'te tamamlanması kararlaştırılmıştır. Bu sebeple toplam 100 puanlık sprintin büyük payı buraya ayrılmıştır. Görevlerin puanları, tamamlanacak iş saati hesap edilerek belirlenmiştir. 
+- **Daily Scrum:** Kısa görüşmeler ve kararlar Whatsapp üzerinden, toplantılar Discord üzerinden gerçekleştirilmiştir. Ekran görüntülerine ulaşmak için > <a href="https://imgur.com/a/sprint-2-daily-scrums-eLAFPvT">Daily Scrum</a>
+- **Sprint Board Güncellemeler ve Oyun Görselleri:**
+--
+
+- **Sprint Review:**
+   - 
+_**Sprint Review Katılımcıları:
+
+- **Sprint Retrospective:**
+-    -
