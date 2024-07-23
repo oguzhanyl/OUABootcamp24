@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class ScreenManage : MonoBehaviour
 {
+    
     public void playGame()
     {
         SceneManager.LoadScene(1);
@@ -22,5 +23,9 @@ public class ScreenManage : MonoBehaviour
     public void QuitGame()
     {
         Application.Quit();
+    }
+    public void SetFulScreen(bool isFullscreen)
+    {
+        Screen.fullScreen = isFullscreen;
     }
 }
