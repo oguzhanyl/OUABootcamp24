@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringExampleTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringExampleTable
+  m_TableCollectionNameGuidString: b77980a37acdd1349992d42d4b00aa9a
+  m_Entries:
+  - m_Id: 122593742848
+    m_Key: Ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2538743533568
+    m_Key: Sounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2680892690432
+    m_Key: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2708537348096
+    m_Key: Resolutions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11931455328256
+    m_Key: Languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12105040793600
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21168176762880
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21327430291456
+    m_Key: Quit
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2708584740838965272
+  references:
+    version: 2
+    RefIds:
+    - rid: 2708584740838965272
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1721681749579
