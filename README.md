@@ -130,7 +130,50 @@ _**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Te
  
 _**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Tetik, Ayça Oğur, Ayçin Soysal, Oğuzhan Yılmaz
 
+</p>
+</details>
+
+<details>
+<summary><h2><strong>SPRINT 3</strong></h2></summary>
+<p>
+
+<details>
+<summary><h2><strong>Sprint 3 Burndown Chart</strong></h2></summary>
+<p>
+  
+![BurnDown]()
+![Tasks]()
+
+</p>
+</details>
+  
+- **Sprint 3 için tamamlanması öngörülen puan:** 15
+- **Puan Sistemi:** Projenin son aşaması, bugların çözülmesi ve projenin birleştirilmesi olarak planlandığından görev sayısı düşük olup puan az tutulmuştur. Görevlerin puanları, tamamlanacak iş saati hesap edilerek belirlenmiştir. 
+- **Daily Scrum:** Kısa görüşmeler ve kararlar Whatsapp üzerinden, toplantılar Discord üzerinden gerçekleştirilmiştir. Ekran görüntülerine ulaşmak için > <a href="https://imgur.com/gallery/sprint-3-daily-scrums-YpY0XZ1" target="_blank">Daily Scrum</a>
+- **Sprint Board Güncellemeler ve Oyun Görselleri:**
+- ![Trello Board1]()
+- ![Oyun Gorsel1]()
+- ![Trello Board Update]()
+- ![Oyun Gorsel2]()
+- ![Oyun Gorsel3]()
+- ![Oyun Gorsel4]()
+- ![Asana1]()
+- ![Oyun Gorsel5]()
+- ![Oyun Gorsel6]()
+- ![Oyun Gorsel7]()
+- ![Asana2]()
+- ![Oyun Gorsel8]()
+  
+- **Sprint Review:**
+   - Sprint hedefleri tamamlanmış ve ekip, oyunu bitirip teslim etmiştir. 
+   - Tamamlanması öngörülen görev ve puanlar başarıyla tamamlanmıştır.
+   - Oyunun exe çıktısı sorunsuz bir şekilde alınmış olup gerekli platformlarda paylaşılmıştır. Oyunu indirmek için > <a href="https://aycaogur.itch.io/grandpas-legacy" target="_blank">Grandpa's Legacy</a>
+
+_**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Tetik, Ayça Oğur, Ayçin Soysal, Oğuzhan Yılmaz
+
 - **Sprint Retrospective:**
-   - Bireysel görevlerin bittiği ve sonraki aşama için bugların çözülmesi gerektiği konuşulmuştur.
-   - Ekibin hızlıca birbirine projeyi aktarması kararlaştırıldı. Dosya büyük olduğu için yaşanan aksaklıkların daha hızlı bir şekilde karar bağlanması yönünde yapıcı eleştri yapıldı.
-   - Level designer ve developerların, materyal seçimi ve 3d objeler için tekrar bir toplantı yapılmasına karar verildi.
+   - Ekip üyeleri, verdikleri katkılardan dolayı birbirini tebrik etmiştir. 
+   - Takımdaki iletişimin ve işbirliğinin önceki sprintlere göre daha başarılı olduğu konuşulmuştur. 
+
+</p>
+</details>
