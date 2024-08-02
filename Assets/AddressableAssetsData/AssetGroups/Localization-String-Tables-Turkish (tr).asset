@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Localization-String-Tables-Turkish (tr)
   m_Data:
     m_SerializedData: []
-  m_GUID: 5d1649983a1da6843b88732a02884c8d
+  m_GUID: df6cf92c5ecc7814983aa5c1d471d508
   m_SerializeEntries:
   - m_GUID: 018623930a8da004492b337c8e038516
     m_Address: StringExampleTable_tr
@@ -25,8 +25,8 @@ MonoBehaviour:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
-  m_Settings: {fileID: 11400000, guid: 56e17bc78261ca34d80cc93422996e6c, type: 2}
+  m_Settings: {fileID: 11400000, guid: 5cf44f9047305db46ba759fb4594fdcc, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 60bb0f3a973772f4ab295db3ea2a1788, type: 2}
-    - {fileID: 11400000, guid: 71b16f2135813db45a9872e6b29eded4, type: 2}
+    - {fileID: 11400000, guid: b76541f9f3baff940ac477bf0aabb8d6, type: 2}
+    - {fileID: 11400000, guid: b70d1d1755f3a194085bc3a5c7626f7d, type: 2}

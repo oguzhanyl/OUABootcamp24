@@ -50,6 +50,14 @@ MonoBehaviour:
     m_Localized: Q U I T
     m_Metadata:
       m_Items: []
+  - m_Id: 95073532907520
+    m_Localized: R E S U M E
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95082332557312
+    m_Localized: M E N U
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

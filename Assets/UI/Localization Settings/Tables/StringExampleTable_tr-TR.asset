@@ -50,6 +50,14 @@ MonoBehaviour:
     m_Localized: D I L L E R
     m_Metadata:
       m_Items: []
+  - m_Id: 95073532907520
+    m_Localized: D E V A M  E T
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95082332557312
+    m_Localized: "M E N \xDC"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

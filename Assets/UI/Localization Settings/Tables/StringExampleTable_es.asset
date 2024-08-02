@@ -50,6 +50,14 @@ MonoBehaviour:
     m_Localized: S A L I D A
     m_Metadata:
       m_Items: []
+  - m_Id: 95073532907520
+    m_Localized: C U R R I C U L U M
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95082332557312
+    m_Localized: "M E N \xDA"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

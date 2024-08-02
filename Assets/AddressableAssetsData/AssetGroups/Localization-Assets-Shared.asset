@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Shared
   m_Data:
     m_SerializedData: []
-  m_GUID: 9c9b53956e88e8949b684088d19fe178
+  m_GUID: 0bd8c08fa3c0cf54592454034408b145
   m_SerializeEntries:
   - m_GUID: b77980a37acdd1349992d42d4b00aa9a
     m_Address: Assets/UI/Localization Settings/Tables/StringExampleTable Shared Data.asset
@@ -23,8 +23,8 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
-  m_Settings: {fileID: 11400000, guid: 56e17bc78261ca34d80cc93422996e6c, type: 2}
+  m_Settings: {fileID: 11400000, guid: 5cf44f9047305db46ba759fb4594fdcc, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: c420067c3bd573646a45c758787e5183, type: 2}
-    - {fileID: 11400000, guid: eb63fbabbdf59ce4f9522e6212f84e6b, type: 2}
+    - {fileID: 11400000, guid: c2c0104417466734496ce11e36aab26f, type: 2}
+    - {fileID: 11400000, guid: 99e0b319e0f444c47af0eaa5c25dc132, type: 2}
