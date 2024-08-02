@@ -169,7 +169,7 @@ _**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Te
    - Tamamlanması öngörülen görev ve puanlar başarıyla tamamlanmıştır.
    - Oyunun exe çıktısı sorunsuz bir şekilde alınmış olup gerekli platformlarda paylaşılmıştır. Oyunu indirmek için > <a href="https://aycaogur.itch.io/grandpas-legacy" target="_blank">Grandpa's Legacy</a>
 
-_**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Tetik, Ayça Oğur, Ayçin Soysal, Oğuzhan Yılmaz
+_**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Tetik, Ayça Oğur, Ayçin Soysal, Oğuzhan Yılmazz
 
 - **Sprint Retrospective:**
    - Ekip üyeleri, verdikleri katkılardan dolayı birbirini tebrik etmiştir. 
