@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/UI/ScenesUI/StartScreen.unity
     guid: f6f52800149fb174799f5353c1885f02
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/GrandpasLegacy.unity
+    guid: cc7275193d11e564492cc7e2e80cdcb3
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 1218e159c0115334a8acd2962a0887d9, type: 2}
     com.unity.localization.settings: {fileID: 11400000, guid: 4520cb7a01f0b5947a1bf0dd4b0a94e1, type: 2}
