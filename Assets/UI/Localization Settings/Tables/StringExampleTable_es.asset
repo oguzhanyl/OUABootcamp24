@@ -58,6 +58,26 @@ MonoBehaviour:
     m_Localized: "M E N \xDA"
     m_Metadata:
       m_Items: []
+  - m_Id: 3881803675340800
+    m_Localized: continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882279414272000
+    m_Localized: "\xA1Click!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882595119534080
+    m_Localized: 'Abuelo:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882845725003776
+    m_Localized: Borrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3883083558817792
+    m_Localized: Drop
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

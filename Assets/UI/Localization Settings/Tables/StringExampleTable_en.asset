@@ -58,6 +58,26 @@ MonoBehaviour:
     m_Localized: M E N U
     m_Metadata:
       m_Items: []
+  - m_Id: 3881803675340800
+    m_Localized: continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882279414272000
+    m_Localized: Click!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882595119534080
+    m_Localized: 'Grandpa:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882845725003776
+    m_Localized: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3883083558817792
+    m_Localized: Drop
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

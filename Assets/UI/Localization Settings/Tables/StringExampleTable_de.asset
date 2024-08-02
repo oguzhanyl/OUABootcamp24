@@ -58,6 +58,26 @@ MonoBehaviour:
     m_Localized: "MEN\xDC"
     m_Metadata:
       m_Items: []
+  - m_Id: 3881803675340800
+    m_Localized: weiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882279414272000
+    m_Localized: Klick!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882595119534080
+    m_Localized: "Gro\xDFvater:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882845725003776
+    m_Localized: "L\xF6schen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3883083558817792
+    m_Localized: Ablegen
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

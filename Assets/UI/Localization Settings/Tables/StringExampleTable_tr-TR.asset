@@ -58,6 +58,26 @@ MonoBehaviour:
     m_Localized: "M E N \xDC"
     m_Metadata:
       m_Items: []
+  - m_Id: 3881803675340800
+    m_Localized: devam et
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882279414272000
+    m_Localized: "T\u0131kla!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882595119534080
+    m_Localized: "B\xFCy\xFCkbaba:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3882845725003776
+    m_Localized: Sil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3883083558817792
+    m_Localized: "B\u0131rak"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
