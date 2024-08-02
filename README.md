@@ -151,18 +151,18 @@ _**Sprint Review Katılımcıları:**_ Abdullah Enes Dürüşken, Abdülkerim Te
 - **Puan Sistemi:** Projenin son aşaması, bugların çözülmesi ve projenin birleştirilmesi olarak planlandığından görev sayısı düşük olup puan az tutulmuştur. Görevlerin puanları, tamamlanacak iş saati hesap edilerek belirlenmiştir. 
 - **Daily Scrum:** Kısa görüşmeler ve kararlar Whatsapp üzerinden, toplantılar Discord üzerinden gerçekleştirilmiştir. Ekran görüntülerine ulaşmak için > <a href="https://imgur.com/gallery/sprint-3-daily-scrums-YpY0XZ1" target="_blank">Daily Scrum</a>
 - **Sprint Board Güncellemeler ve Oyun Görselleri:**
-- ![Trello Board1]()
-- ![Oyun Gorsel1]()
-- ![Trello Board Update]()
-- ![Oyun Gorsel2]()
-- ![Oyun Gorsel3]()
-- ![Oyun Gorsel4]()
-- ![Asana1]()
-- ![Oyun Gorsel5]()
-- ![Oyun Gorsel6]()
-- ![Oyun Gorsel7]()
-- ![Asana2]()
-- ![Oyun Gorsel8]()
+- ![Trello Board1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/t1.png)
+- ![Oyun Gorsel1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/o1.png)
+- ![Trello Board Update](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/t2.png)
+- ![Oyun Gorsel2](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/o2.png)
+- ![Oyun Gorsel3](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/o3.png)
+- ![Oyun Gorsel4](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/o4.png)
+- ![Asana1](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/a1.png)
+- ![Oyun Gorsel5](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/o5.png)
+- ![Oyun Gorsel6](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/o6.png)
+- ![Oyun Gorsel7](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/o7.png)
+- ![Asana2](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/a2.png)
+- ![Oyun Gorsel8](https://github.com/oguzhanyl/OUABootcamp24/blob/main/BootcampFiles/Sprint3/o8.png)
   
 - **Sprint Review:**
    - Sprint hedefleri tamamlanmış ve ekip, oyunu bitirip teslim etmiştir. 
